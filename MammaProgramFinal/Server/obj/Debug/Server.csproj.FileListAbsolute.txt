@@ -1,0 +1,33 @@
+C:\Users\louis\source\repos\MammaProgramFinal\Server\bin\Debug\Server.exe.config
+C:\Users\louis\source\repos\MammaProgramFinal\Server\bin\Debug\Server.exe
+C:\Users\louis\source\repos\MammaProgramFinal\Server\bin\Debug\Server.pdb
+C:\Users\louis\source\repos\MammaProgramFinal\Server\bin\Debug\HelperLibrary.dll
+C:\Users\louis\source\repos\MammaProgramFinal\Server\bin\Debug\HelperLibrary.pdb
+C:\Users\louis\source\repos\MammaProgramFinal\Server\bin\Debug\HelperLibrary.dll.config
+C:\Users\louis\source\repos\MammaProgramFinal\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\louis\source\repos\MammaProgramFinal\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\louis\source\repos\MammaProgramFinal\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\louis\source\repos\MammaProgramFinal\Server\obj\Debug\Server.exe
+C:\Users\louis\source\repos\MammaProgramFinal\Server\obj\Debug\Server.pdb
+D:\Onedrive\Louis van Zyl\Projects\MammaProgramFinal\Server\bin\Debug\Server.exe.config
+D:\Onedrive\Louis van Zyl\Projects\MammaProgramFinal\Server\bin\Debug\Server.exe
+D:\Onedrive\Louis van Zyl\Projects\MammaProgramFinal\Server\bin\Debug\Server.pdb
+D:\Onedrive\Louis van Zyl\Projects\MammaProgramFinal\Server\bin\Debug\HelperLibrary.dll
+D:\Onedrive\Louis van Zyl\Projects\MammaProgramFinal\Server\bin\Debug\HelperLibrary.pdb
+D:\Onedrive\Louis van Zyl\Projects\MammaProgramFinal\Server\bin\Debug\HelperLibrary.dll.config
+D:\Onedrive\Louis van Zyl\Projects\MammaProgramFinal\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Onedrive\Louis van Zyl\Projects\MammaProgramFinal\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Onedrive\Louis van Zyl\Projects\MammaProgramFinal\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Onedrive\Louis van Zyl\Projects\MammaProgramFinal\Server\obj\Debug\Server.exe
+D:\Onedrive\Louis van Zyl\Projects\MammaProgramFinal\Server\obj\Debug\Server.pdb
+G:\Onedrive\Louis van Zyl\Projects\MammaProgramFinal\Server\bin\Debug\Server.exe.config
+G:\Onedrive\Louis van Zyl\Projects\MammaProgramFinal\Server\bin\Debug\Server.exe
+G:\Onedrive\Louis van Zyl\Projects\MammaProgramFinal\Server\bin\Debug\Server.pdb
+G:\Onedrive\Louis van Zyl\Projects\MammaProgramFinal\Server\bin\Debug\HelperLibrary.dll
+G:\Onedrive\Louis van Zyl\Projects\MammaProgramFinal\Server\bin\Debug\HelperLibrary.pdb
+G:\Onedrive\Louis van Zyl\Projects\MammaProgramFinal\Server\bin\Debug\HelperLibrary.dll.config
+G:\Onedrive\Louis van Zyl\Projects\MammaProgramFinal\Server\obj\Debug\Server.csprojAssemblyReference.cache
+G:\Onedrive\Louis van Zyl\Projects\MammaProgramFinal\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+G:\Onedrive\Louis van Zyl\Projects\MammaProgramFinal\Server\obj\Debug\Server.csproj.CopyComplete
+G:\Onedrive\Louis van Zyl\Projects\MammaProgramFinal\Server\obj\Debug\Server.exe
+G:\Onedrive\Louis van Zyl\Projects\MammaProgramFinal\Server\obj\Debug\Server.pdb

@@ -1,0 +1,14 @@
+C:\Users\louis\source\repos\MammaProgramFinal\HelperLibrary\bin\Debug\HelperLibrary.dll.config
+C:\Users\louis\source\repos\MammaProgramFinal\HelperLibrary\bin\Debug\HelperLibrary.dll
+C:\Users\louis\source\repos\MammaProgramFinal\HelperLibrary\bin\Debug\HelperLibrary.pdb
+C:\Users\louis\source\repos\MammaProgramFinal\HelperLibrary\obj\Debug\HelperLibrary.csprojAssemblyReference.cache
+C:\Users\louis\source\repos\MammaProgramFinal\HelperLibrary\obj\Debug\HelperLibrary.csproj.CoreCompileInputs.cache
+C:\Users\louis\source\repos\MammaProgramFinal\HelperLibrary\obj\Debug\HelperLibrary.dll
+C:\Users\louis\source\repos\MammaProgramFinal\HelperLibrary\obj\Debug\HelperLibrary.pdb
+G:\Onedrive\Louis van Zyl\Projects\MammaProgramFinal\HelperLibrary\bin\Debug\HelperLibrary.dll.config
+G:\Onedrive\Louis van Zyl\Projects\MammaProgramFinal\HelperLibrary\bin\Debug\HelperLibrary.dll
+G:\Onedrive\Louis van Zyl\Projects\MammaProgramFinal\HelperLibrary\bin\Debug\HelperLibrary.pdb
+G:\Onedrive\Louis van Zyl\Projects\MammaProgramFinal\HelperLibrary\obj\Debug\HelperLibrary.csprojAssemblyReference.cache
+G:\Onedrive\Louis van Zyl\Projects\MammaProgramFinal\HelperLibrary\obj\Debug\HelperLibrary.csproj.CoreCompileInputs.cache
+G:\Onedrive\Louis van Zyl\Projects\MammaProgramFinal\HelperLibrary\obj\Debug\HelperLibrary.dll
+G:\Onedrive\Louis van Zyl\Projects\MammaProgramFinal\HelperLibrary\obj\Debug\HelperLibrary.pdb
